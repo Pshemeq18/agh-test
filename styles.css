@@ -1,0 +1,53 @@
+th{
+    background-color: wheat;
+    padding: 5px;
+}
+td {
+    background-color: bisque;
+    padding: 5px;
+    border: 2px solid black;
+}
+
+.b {
+    background-color: aqua;
+    border: 2px solid black;
+    padding: 10px;
+}
+
+button[type="reset"]{
+    background-color: blanchedalmond;
+    position: absolute;
+    left: 100px;
+}
+
+button[type="submit"]{
+    background-color: lightcoral;
+    position: absolute;
+    left: 200px;
+}
+
+.box{
+    height: 200px;
+    width: 200px;
+    background-color: coral;
+    border-radius: 10px;
+    position: absolute;
+    top: 400px;
+}
+
+.first{
+    background-color: aquamarine;
+    height: 80px;
+    width: 80px;
+    top: -20%;
+    right: -20%;
+}
+
+.second{
+    background-color: yellowgreen;
+    height: 80px;
+    width: 80px;
+    top: 80%;
+    right: -20%;
+}
+
